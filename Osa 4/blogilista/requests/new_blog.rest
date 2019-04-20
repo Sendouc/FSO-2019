@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6InNlcHBvMTIzIiwiaWQiOiI1Y2JiMTAwNTdjNjg0NjBmMjAzOTdkMDYiLCJpYXQiOjE1NTU3NjYzMzJ9.JNR6EsZIHG-OAum-cXKFdO1E5AJ8niwzDtuU8L0rbdo
+
+{
+    "title": "Testi Seppo The Sequel",
+    "author": "Seppo",
+    "url": "www.moiseppo.com/sequel",
+    "likes": 555
+}
