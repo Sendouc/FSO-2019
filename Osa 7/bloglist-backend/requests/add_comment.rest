@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/5cbcb20a72a4da45d81dd7d0/comments
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6InNlcHBvMTIzIiwiaWQiOiI1Y2JiMTAwNTdjNjg0NjBmMjAzOTdkMDYiLCJpYXQiOjE1NTU3NjYzMzJ9.JNR6EsZIHG-OAum-cXKFdO1E5AJ8niwzDtuU8L0rbdo
+
+{
+    "content": "on se kova"
+}
